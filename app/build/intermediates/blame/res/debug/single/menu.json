@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/build/intermediates/res/merged/debug/menu/tab3.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/src/main/res/menu/tab3.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/build/intermediates/res/merged/debug/menu/tab_bar.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/src/main/res/menu/tab_bar.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/build/intermediates/res/merged/debug/menu/log_in.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/src/main/res/menu/log_in.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/build/intermediates/res/merged/debug/menu/sign_up.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/src/main/res/menu/sign_up.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/build/intermediates/res/merged/debug/menu/tab2.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/src/main/res/menu/tab2.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/build/intermediates/res/merged/debug/menu/tab1.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/src/main/res/menu/tab1.xml"
+    },
+    {
+        "merged": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/build/intermediates/res/merged/debug/menu/display_info.xml",
+        "source": "/Users/nequit/Dropbox/projects/apps/Android/Loohcs1/app/src/main/res/menu/display_info.xml"
+    }
+]

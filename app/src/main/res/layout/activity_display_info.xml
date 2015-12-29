@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/placeHolderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/user_details"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/placeHolderTextView"
+        android:layout_marginTop="72dp"
+        android:text="@string/username_text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/TFusername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="42dp"
+        android:layout_toRightOf="@+id/textView2"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="RtlHardcoded,HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView2"
+        android:text="@string/email_txt"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/TFEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView4"
+        android:layout_alignLeft="@+id/TFusername"
+        android:layout_alignParentRight="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="RtlHardcoded,HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_toLeftOf="@+id/TFusername"
+        android:text="@string/password_txt"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/TFpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView6"
+        android:layout_alignLeft="@+id/TFusername"
+        android:layout_alignParentRight="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="HardcodedText,RtlHardcoded" />
+
+    <Button
+        android:id="@+id/logOutButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/log_out_button" />
+
+</RelativeLayout>
